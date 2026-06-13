@@ -36,4 +36,4 @@ System Administrator & Enterprise Service Desk Engineer focused on building secu
 * 🛡️ Mapping local security policies directly to international cybersecurity frameworks.
 * 💼 actively interviewing for IT Support Specialist, Help Desk Tier 2, and Junior Systems Administrator roles.
 
-Let's connect! Feel free to review my repositories or reach out regarding open engineering opportunities.
+Let's connect! Feel free to review my repositories or reach out regarding open IT Support, Help Desk, or Tier 1 Technical roles.
