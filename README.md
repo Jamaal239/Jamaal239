@@ -1,6 +1,6 @@
 # Hi, I'm Jamaal 👋 
 
-System Administrator & Enterprise Service Desk Engineer focused on building secure, scalable, and ITIL-compliant infrastructure pipelines. I specialize in central identity management (Active Directory), IT Service Management (JSM/ServiceNow automation), and structural endpoint hardening.
+IT Infrastructure & Service Desk Specialist focused on deploying secure, scalable, and ITIL-compliant sandbox environments. Specialize in hands-on practical implementations of centralized identity management (Active Directory), IT Service Management automation (Jira/ServiceNow frameworks), and endpoint security hardening.
 
 ---
 
